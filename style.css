@@ -1,0 +1,21 @@
+body{
+	background-color:#403D39;
+}
+.pic{
+	width: 600px;
+	float:left;
+	padding: 50px 50px 50px 50px;
+	overflow:auto;
+}
+.text{
+	padding: 40px 40px 40px 40px;
+	background-color: #FF934F;
+	width:80%;
+	margin: 0 auto 40px auto;
+	text-align: center;
+}
+h3{
+	/*float:left;*/
+	color:white;
+	text-align:center;
+}
